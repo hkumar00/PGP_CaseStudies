@@ -1,7 +1,9 @@
-# AI/ML Case Studies - PG Program at Texam University
+# AI/ML Case Studies - PG Program at Texas University
 
 ## Overview
-This repository contains a collection of case studies completed as part of the Postgraduate (PG) program in Artificial Intelligence and Machine Learning at Texam University. Each case study focuses on a specific aspect of AI/ML, ranging from traditional machine learning techniques to cutting-edge solutions like Retrieval-Augmented Generation (RAG) and model deployment on platforms like Hugging Face.
+This repository contains a collection of case studies completed as part of the Postgraduate (PG) program in Artificial Intelligence and Machine Learning at Texas University. 
+Each case study focuses on a specific aspect of AI/ML, ranging from traditional machine learning techniques to cutting-edge solutions 
+like Retrieval-Augmented Generation (RAG) and model deployment on platforms like Hugging Face.
 
 ## Case Studies
 1. **Traditional Machine Learning**: Building predictive models using techniques like decision trees, random forests, and logistic regression.
@@ -23,8 +25,9 @@ These case studies are designed to provide hands-on experience with real-world A
 - Jupyter Notebooks
 - Hugging Face
 - Flask/FastAPI
+- Streamlit
 - Docker
 - Cloud platforms (AWS, Azure, GCP)
 
 ## Acknowledgment
-These case studies are part of the curriculum at Texam University, aimed at equipping students with practical skills in AI/ML to solve real-world problems.
+These case studies are part of the curriculum at Texas University, aimed at equipping students with practical skills in AI/ML to solve real-world problems.
